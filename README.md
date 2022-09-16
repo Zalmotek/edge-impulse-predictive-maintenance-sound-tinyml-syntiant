@@ -35,7 +35,7 @@ To address this challenge we will be developing an audio-based predictive mainte
 Predictive maintenance is a field of AI that is constantly evolving and offers many benefits to those who adopt it. Syntiant's sound-based predictive maintenance solution is one example of how this technology can be used to improve industrial equipment. By monitoring the sound made by industrial machinery, the audio-based predictive maintenance model can detect when the critical failure is going to happen and stop the task before damage is done. This type of solution has the potential to greatly reduce unplanned downtime and increase overall equipment effectiveness.
 
 ## Authors
-   [Zalmotek team](https://zalmotek.com/)
+   Built for [Edge Impulse](https://edgeimpulse.com/) by the [Zalmotek team](https://zalmotek.com/)
 
 
 
