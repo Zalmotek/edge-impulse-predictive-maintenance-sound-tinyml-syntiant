@@ -3,26 +3,6 @@
 
 ![Syntiant Highlight Photo](SyntiantHighlight.jpg)
 
-<table align="center", width="100%">
-	<tr>
-		<td><p>Vertical</p></td>
-		<td><p>Hardware Target</p></td>
-		<td><p>Manufacturer</p></td>
-		<td><p>Type</p></td>
-		<td><p>Feature used</p></td>
-	</tr>
-	<tr>
-		<td><p>Industrial</p></td>
-		<td><p>Syntiant TinyML</p></td>
-		<td><p>Syntiant</p></td>
-		<td><p>Predictive maintenance</p></td>
-		<td><p>NN Classifier</p></td>
-	</tr>
-		
-
-</table>
-
-
 ## The challenge
 
 In industrial contexts, pulley-belt systems are widely used to precisely drive the working head of CNC machines like laser, plasma, and water cutting machines. In high precision CNC machines, any obstruction in the movement of the working head results in a failed task and can eventually translate into damage to the mechanical structure of the CNC machine.
