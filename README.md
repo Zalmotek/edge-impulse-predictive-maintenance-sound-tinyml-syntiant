@@ -17,5 +17,3 @@ Predictive maintenance is a field of AI that is constantly evolving and offers m
 ## Authors
    Built for [Edge Impulse](https://edgeimpulse.com/) by the [Zalmotek team](https://zalmotek.com/)
 
-
-
